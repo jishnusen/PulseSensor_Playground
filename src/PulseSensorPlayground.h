@@ -154,7 +154,7 @@ class PulseSensorPlayground {
 
        Refer to this value as PulseSensorPlayground::MICROS_PER_READ
     */
-    static const unsigned long MICROS_PER_READ = (2 * 1000L); // usecs per sample.
+    static const unsigned long MICROS_PER_READ = (8 * 1000L); // usecs per sample.
 
     //---------- PulseSensor Manager functions
 
